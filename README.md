@@ -1,4 +1,4 @@
-### My Personal
+## My Personal
 
 #### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
 
